@@ -2,7 +2,6 @@ discord
 pandas
 requests
 BeautifulSoup4
-itertools
 googlesearch
 datetime
 pytrends

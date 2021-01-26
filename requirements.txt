@@ -1,7 +1,7 @@
 discord
 pandas
 requests
-BeautifulSoup
+BeautifulSoup4
 itertools
 googlesearch
 datetime

@@ -1,3 +1,4 @@
+googlesearch-python
 discord
 pandas
 requests

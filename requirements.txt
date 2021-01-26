@@ -1,1 +1,8 @@
 discord
+pandas
+requests
+BeautifulSoup
+itertools
+googlesearch
+datetime
+pytrends

@@ -66,7 +66,7 @@ class auto(commands.Cog):
 		channel = discord.utils.get(ctx.guild.channels, name="mas-trendy-daily") #harus pake strip namanya
 		if channel is None:
 			guild = ctx.message.guild
-			await guild.create_text_channel("auto-hehe")
+			await guild.create_text_channel("mas-trendy-daily")
 			channel = discord.utils.get(ctx.guild.channels, name="mas-trendy-daily")
 
 		#iso code decoder

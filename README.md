@@ -1,5 +1,5 @@
 ## About
-**Mas Trendy** is an Open Source, *Google-trend & Google-search* powered Discord Bot. Equiped with **daily-push-notification** about the current trends based on Google search-engine and **manual-push-notifaction** to search current trends in each country. Invite Mas Trendy to your server right now by clicking [this link](https://discord.com/api/oauth2/authorize?client_id=799264853558558807&permissions=19472&scope=bot). 
+**Mas Trendy** is an Open Source, *Google-trend & Google-search* powered Discord Bot. Equipped with **daily-push-notification** about the current trends based on Google search-engine and **manual-push-notifaction** to search current trends in each country. Invite Mas Trendy to your server right now by clicking [this link](https://discord.com/api/oauth2/authorize?client_id=799264853558558807&permissions=19472&scope=bot). 
 
 Also, feel free to join our community at [here](https://discord.gg/2qUhfruWGG) & drop a ⭐ to help promote Mas Trendy.
 
